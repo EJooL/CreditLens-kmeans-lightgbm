@@ -1,0 +1,23 @@
+{
+    "algorithm": "K-Means",
+    "n_clusters": 3,
+    "features": [
+        "RevolvingUtilizationOfUnsecuredLines",
+        "age",
+        "NumberOfOpenCreditLinesAndLoans",
+        "NumberRealEstateLoansOrLines",
+        "DebtRatio",
+        "MonthlyIncome"
+    ],
+    "silhouette_score": 0.2347,
+    "cluster_labels": {
+        "0": "Berisiko Tinggi",
+        "1": "Berisiko Menengah",
+        "2": "Berisiko Rendah"
+    },
+    "default_rate": {
+        "0": 0.0848,
+        "1": 0.0551,
+        "2": 0.0493
+    }
+}
