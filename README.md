@@ -4,7 +4,7 @@
 > **Classification (LightGBM)** dan **Clustering (K-Means)** untuk memberikan
 > prediksi dan segmentasi nasabah secara komprehensif.
 
-**UAS Data Mining · Sistem Informasi UNESA · 2024/2025**
+**UAS Data Mining · Sistem Informasi UNESA · 2025/2026**
 
 ---
 
