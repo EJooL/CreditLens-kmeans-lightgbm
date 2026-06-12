@@ -23,7 +23,6 @@ risiko kredit nasabah menggunakan dataset **Give Me Some Credit** (Kaggle, 150.0
 ## 🏗️ Struktur Folder
 
 ```
-UAS_DataMining/
 ├── app/
 │   ├── app.py                  ← Entry point Streamlit
 │   └── pages/
