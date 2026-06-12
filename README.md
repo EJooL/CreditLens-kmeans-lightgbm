@@ -191,8 +191,8 @@ json.dump({
 
 | Nama | NIM | Program Studi |
 |---|---|---|
-| Nama Anggota 1 | NIM1 | Sistem Informasi |
-| Nama Anggota 2 | NIM2 | Sistem Informasi |
+| Ihza Budi Cendhika | 24051214163 | Sistem Informasi |
+| Ikfi Ardani Kharisma | 24051214165 | Sistem Informasi |
 
 **Universitas Negeri Surabaya**
 Mata Kuliah: Data Mining · Semester Genap 2024/2025
