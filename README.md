@@ -194,4 +194,4 @@ json.dump({
 | Ikfi Ardani Kharisma | 24051214165 | Sistem Informasi |
 
 **Universitas Negeri Surabaya**
-Mata Kuliah: Data Mining · Semester Genap 2024/2025
+Mata Kuliah: Data Mining · Semester Genap 2025/2026
